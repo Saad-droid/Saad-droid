@@ -10,7 +10,7 @@ I'm a passionate frontend developer focused on building modern web apps using **
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 ### 📌 Featured Projects
-- [**Mugcake Clone**](#) — E-commerce UI using Next.js and TailwindCSS.
+- [**Bakery Ecommerce**](https://bakery-ecom.vercel.app/) — E-commerce UI using Next.js and TailwindCSS.
 - [**Patient Manager**](#) — Form-based app with Redux-Saga & validations.
 - [**Mock Data Tool**](#) — Data generation & export app like Mockaroo.
 
