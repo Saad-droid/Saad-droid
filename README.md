@@ -14,9 +14,11 @@ I'm a passionate frontend developer focused on building modern web apps using **
 - [**Bakery E-commerce Site**](https://bakery-ecom.vercel.app/)  
   Bakery-themed product showcase built with Next.js and responsive design.
 
-- [**KYC Form App**](https://kyc-task.vercel.app/)  
-  Multi-step KYC form using React, Tailwind, and validation.
+- [**ECom Cart  App**](https://kyc-task.vercel.app/)  
+  Ecom cart form using Reactand tailwind.
 
+  - [**HealthCare Dashboard Static  App**](https://healthcare-dashboard-sooty.vercel.app/)  
+  Static Healthcare dashboard using react and css
 - [**Tailwind UI Demo**](https://tailwind-project-theta-five.vercel.app/)  
   A responsive UI layout built purely with Tailwind CSS components.
 
