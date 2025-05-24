@@ -16,8 +16,7 @@ I'm a passionate frontend developer focused on building modern web apps using **
 
 - [**ECom Cart  App**](https://kyc-task.vercel.app/)  
   Ecom cart form using Reactand tailwind.
-
-  - [**HealthCare Dashboard Static  App**](https://healthcare-dashboard-sooty.vercel.app/)  
+- [**HealthCare Dashboard Static  App**](https://healthcare-dashboard-sooty.vercel.app/)  
   Static Healthcare dashboard using react and css
 - [**Tailwind UI Demo**](https://tailwind-project-theta-five.vercel.app/)  
   A responsive UI layout built purely with Tailwind CSS components.
