@@ -13,7 +13,8 @@ I'm a passionate frontend developer focused on building modern web apps using **
 
 - [**Bakery E-commerce Site**](https://bakery-ecom.vercel.app/)  
   Bakery-themed product showcase built with Next.js and responsive design.
-
+- [**NextJS App with Multiple Features**](https://next-js-multi-feature-app.vercel.app/)  
+  Demo for Blog, URL shortner,Social media POC and Demo Crypto tracker made with NextJS.
 - [**ECom Cart  App**](https://kyc-task.vercel.app/)  
   Ecom cart form using Reactand tailwind.
 - [**HealthCare Dashboard Static  App**](https://healthcare-dashboard-sooty.vercel.app/)  
