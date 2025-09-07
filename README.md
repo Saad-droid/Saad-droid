@@ -1,6 +1,6 @@
 ## Hi, I'm Saad – React & Next.js Developer
 
-I'm a passionate frontend developer focused on building modern web apps using **React**, **Next.js**, **Redux**, and clean UI libraries like **TailwindCSS**. I love creating user-friendly interfaces and scalable frontend architectures.
+I'm a passionate frontend developer focused on building modern web apps using **React**, **Next.js**, **Redux**, **JavaScript**, **Node.js**, **Express**, and clean UI libraries like **TailwindCSS**,**BootStrap**,etc. I love creating user-friendly interfaces and scalable frontend architectures.
 
 ### ⚡ Tech Stack
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
